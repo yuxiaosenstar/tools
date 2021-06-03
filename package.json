@@ -1,7 +1,7 @@
 {
   "name": "@yuxiaosen/tools",
   "version": "1.0.1",
-  "main": "main.ts",
+  "main": "index.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yuxiaosenstar/tools.git"
